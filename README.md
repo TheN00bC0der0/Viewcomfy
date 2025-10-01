@@ -1,2 +1,2 @@
 # Viewcomfy
-View Comfy Bashfile
+View Comfy Bat file
